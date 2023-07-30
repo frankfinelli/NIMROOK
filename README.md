@@ -13,3 +13,5 @@ Rough Draft 20230726
 
  Phase 1 is still ongoing. Done 20K/~37K cards so far. Expected due date Oct 2023.
  Phase 2 will take place using select CSVs for scraping Scryfall. Start date Aug 2023. 
+
+Test Cases: Delver Lens
