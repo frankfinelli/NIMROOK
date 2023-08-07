@@ -1,0 +1,28 @@
+import requests
+
+# Replace 'YOUR_API_KEY' with your actual Scryfall API key.
+API_KEY = 'YOUR_API_KEY'
+BASE_URL = 'https://api.scryfall.com'
+
+def get_card_by_name(card_name):
+    endpoint = '/cards/named'
+    params = {'fuzzy': card_name}
+    headers = {'User-Agent': 'MyApp/1.0', 'Authorization': f'Bearer {API_KEY}'}
+
+    response = requests.get(BASE_URL + endpoint, params=params, headers=headers)
+
+    if response.status_code == 200:
+        card_data = response.json()
+        # Do something with the card data
+        return card_data
+    else:
+        print(f"Error: {response.status_code} - {response.text}")
+        return None
+
+# Example usage:
+card_name = 'Sol Ring'
+result = get_card_by_name(card_name)
+if result:
+    print(f"Name: {result['name']}")
+    print(f"Mana Cost: {result['mana_cost']}")
+    print(f"Oracle Text: {result['oracle_text']}")
