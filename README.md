@@ -15,3 +15,15 @@ Rough Draft 20230726
  Phase 2 will take place using select CSVs for scraping Scryfall. Start date Aug 2023. 
 
 Test Cases: Delver Lens
+
+------------------------------------------------------------------------------------------------
+
+Draft: 20230906
+
+Phase 1: ~90% complete. Uncommons and rares scanning complete. Remainder commons and cards left from first pass of scanning. Discussion of any and all cards with a number (i.e. tokens, official proxies) will be counted. At 100%, will discuss phasing out dependence on Delver Lens.
+Phase 2: Prototype built on skeleton example mentioned in previous draft. Will post once I deem it worthy to be functional and secure of theft/unauthorized manipulation.
+Phase 3: Exploration limited as Phase 1 has taken 10 months to manually do. Will start with Altair for functional visuals. Possibly explore Tableau as a partnered option. If not, may find other frameworks or commission own set of visuals
+Phase 4: Created a skeleton template to send for property insurance purposes. This will be the first contact with the financial aspect to explore and configure to protocols and culture alike.
+Phase 5: Parts of it have been completed in collection with Phase 1, the final step will be a particular coding structure (cf. Dewey Decimal System) used for physical organization. It will be internal only to start and work our way to create a public structure fit for consumer use.
+Phase 6: Pending
+Phase 7: Pending. Spoken to some groups with initial interest in investment and contribution.
