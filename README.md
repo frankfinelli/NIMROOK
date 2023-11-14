@@ -35,5 +35,6 @@ Draft: 20231114
 
 1. 100% Complete. All named cards are scanned and accounted for. Will consider tokens and official proxies during next round of scanning once protocol has been established.
 2. 10% Complete. Prototype will now be focused on. Skeleton application and database has been created. Data will be cleaned first before transfer.
-3. Altair will still be default until better alternatives are available. 
+3. Altair will still be default until better alternatives are available.
+4. Pending app and database construction
    
