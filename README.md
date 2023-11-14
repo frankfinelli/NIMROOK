@@ -39,4 +39,4 @@ Draft: 20231114
 4. Pending app and database construction
 5. Pending. All cards are physically organized into nondescript sections for now. Will work on system based on organic placement, tech needs, and...when we get around to it after months of manual labor :)
 6. Pending. Need the back end before the front end (cart before the horse).
-   
+7. Pending. Front end development discussed with a group of particular individuals whom are interested.
