@@ -37,4 +37,5 @@ Draft: 20231114
 2. 10% Complete. Prototype will now be focused on. Skeleton application and database has been created. Data will be cleaned first before transfer.
 3. Altair will still be default until better alternatives are available.
 4. Pending app and database construction
+5. Pending. All cards are physically organized into nondescript sections for now. Will work on system based on organic placement, tech needs, and...when we get around to it after months of manual labor :)
    
