@@ -28,3 +28,12 @@ Phase Updates:
 5. Parts of it have been completed in collection with Phase 1, the final step will be a particular coding structure (cf. Dewey Decimal System) used for physical organization. It will be internal only to start and work our way to create a public structure fit for consumer use.
 6. Pending
 7. Pending. Spoken to some groups with initial interest in investment and contribution.
+
+------------------------------------------------------------------------------------------------
+
+Draft: 20231114
+
+1. 100% Complete. All named cards are scanned and accounted for. Will consider tokens and official proxies during next round of scanning once protocol has been established.
+2. 10% Complete. Prototype will now be focused on. Skeleton application and database has been created. Data will be cleaned first before transfer.
+3. Altair will still be default until better alternatives are available. 
+   
